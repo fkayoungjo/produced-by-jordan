@@ -7,6 +7,7 @@ function App() {
         <h1>Produced By Jordan</h1>
       </div>
       <div className="musicPlayer">
+      <audio></audio>
       </div>
     </div>
   );
